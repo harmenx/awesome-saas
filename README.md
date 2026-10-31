@@ -27,6 +27,7 @@ Software as a service tools for productivity, marketing, development, design, an
 - [ConvertKit](https://kit.com) - Email marketing for creators.
 - [GetResponse](https://www.getresponse.com) - Email, landing pages, webinars.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics.
+- [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies to manage connected accounts and proxies and discover relevant conversations.
 
 ## Development & IT
 
