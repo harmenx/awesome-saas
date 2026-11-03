@@ -27,6 +27,7 @@ Software as a service tools for productivity, marketing, development, design, an
 - [ConvertKit](https://kit.com) - Email marketing for creators.
 - [GetResponse](https://www.getresponse.com) - Email, landing pages, webinars.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics.
+- [MEDIAPRONET](https://mediapronet.com) - Curated directory where founders list new startups, SaaS tools and indie products.
 
 ## Development & IT
 
